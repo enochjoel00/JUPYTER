@@ -1,0 +1,36 @@
+# Data Science Tools and Ecosystem
+In this notebook, various tools and languages used in data science are explored. You will find examples of code, libraries, and an overview of popular tools used by data scientists in this field.
+**Some of the popular languages that Data Scientists use are:**
+- Python
+- R
+- SQL
+- Julia
+- Scala
+**Commonly used libraries by Data Scientists include:**
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+| Tool           | Type         | Description                            |
+|----------------|--------------|----------------------------------------|
+| Jupyter        | IDE/Notebook | Interactive coding and documentation   |
+| RStudio        | IDE          | Popular for R programming              |
+| Apache Spark   | Framework    | Big Data processing                    |
+| TensorFlow     | Library      | Deep Learning and Neural Networks      |
+| Tableau        | Visualization| Data visualization and dashboards      |
+Below is an example of arithmetic expressions in Python for basic calculations.
+# Example: Multiply and add two numbers
+result = (3 * 4) + 5
+print("Result:", result)
+# Convert minutes to hours
+minutes = 180
+hours = minutes / 60
+print(minutes, "minutes is equal to", hours, "hours.")
+**Objectives:**
+- List popular languages for Data Science
+- List commonly used libraries in Data Science
+- Demonstrate basic arithmetic operations using Python
+- Present examples of Data Science development tools
+**Author:**
+INDER JEET
